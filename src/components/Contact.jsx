@@ -9,13 +9,13 @@ function Contact(){
             <div className="max-w-3xl mx-auto">
             <h1 className="md:text-5xl text-4xl mb-10 font-semibold">Contact Me</h1>
            <div className="flex justify-center items-center gap-10">
-            <a href="https://github.com/Alimisolution?tab=repositories" target='_blank' className="font-bold md:text-4xl text-2xl">
+            <a href="https://github.com/Optimumobis?tab=repositories" target='_blank' className="font-bold md:text-4xl text-2xl">
                 <FaGithub/>
             </a>
-             <a href="https://twitter.com/alimi_rosh55817" target='_blank' className="font-bold md:text-4xl text-2xl">
+             <a href="https://x.com/Optimtech_Hub" target='_blank' className="font-bold md:text-4xl text-2xl">
                 <FaTwitter/>
             </a>
-             <a href="https://www.linkedin.com/in/alimi-rosheed-271a5423a/" target='_blank' className="font-bold md:text-4xl text-2xl">
+             <a href="https://www.linkedin.com/in/obidiran-kehinde-3b6053219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target='_blank' className="font-bold md:text-4xl text-2xl">
                 <FaLinkedin/>
             </a>
            </div>
